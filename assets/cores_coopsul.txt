@@ -1,0 +1,40 @@
+Azul
+#3cb6fb
+
+Vermelho
+#ef2830
+
+Verde
+#16a04a
+
+Amarelo
+#faeb29
+
+Orgânico
+#a34a24
+
+---------
+
+Verde Escuro
+#027532
+
+Verde Flat
+#048d3e
+
+Vermelho flat
+#ff5757
+
+Azul flat
+#4882bd
+
+Roxo flat
+#b83cdb
+
+Laranja flat
+#ff914d
+
+Amarelo flat
+#ffbd59
+
+Preto fosco
+#3b3b3b

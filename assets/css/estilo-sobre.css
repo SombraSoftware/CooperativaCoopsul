@@ -1,4 +1,18 @@
-/* Página Sobre Nós - Estilos Adicionais */
+/* Página de Reciclagem - Estilos Adicionais */
+.page-header {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/galpao-001.jpeg');
+    background-size: cover;
+    background-position: center;
+    /* background-color: #41b873; */
+    color: white;
+    padding: 5rem 0;
+    text-align: center;
+}
+
+.page-header h1 {
+    font-size: 2.5rem;
+    color: white;
+}
 
 .mission {
     padding: 4rem 0;

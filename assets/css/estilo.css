@@ -36,12 +36,12 @@ a {
 }
 
 a:hover {
-    color: #2980b9;
+    color: #ffffff;
 }
 
 .btn {
     display: inline-block;
-    background-color: #27ae60;
+    background-color: #16a04a;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -50,13 +50,13 @@ a:hover {
 }
 
 .btn:hover {
-    background-color: #219653;
+    background-color: #006929;
     color: white;
 }
 
 /* Header */
 header {
-    background-color: #2c3e50;
+    background-color: #048d3e;
     color: white;
     padding: 1rem 0;
     position: sticky;
@@ -94,7 +94,10 @@ nav ul li a {
 }
 
 nav ul li a.active {
-    color: #27ae60;
+    color: #f8f8f8;
+    border: 1px solid #eeeeee;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 nav ul li a:after {
@@ -114,7 +117,7 @@ nav ul li a:hover:after {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1606787366850-de6330128bfc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/galpao-001.jpeg');
     background-size: cover;
     background-position: center;
     color: white;
@@ -203,7 +206,7 @@ nav ul li a:hover:after {
 
 /* Footer */
 footer {
-    background-color: #2c3e50;
+    background-color: #4882bd;
     color: #ecf0f1;
     padding: 3rem 0 0;
 }
@@ -240,8 +243,8 @@ footer {
 .copyright {
     text-align: center;
     padding: 1rem 0;
-    background-color: #1a252f;
-    color: #bdc3c7;
+    background-color: #027532;
+    color: #ffffff;
     font-size: 0.9rem;
 }
 
