@@ -69,9 +69,11 @@ header {
     color: white;
     font-size: 1.8rem;
     margin-bottom: 0.2rem;
+    border: 1px white solid;
 }
 
 .logo p {
+    border: 1px white solid;
     color: #ecf0f1;
     font-size: 0.9rem;
 }
@@ -209,6 +211,20 @@ footer {
     background-color: #4882bd;
     color: #ecf0f1;
     padding: 3rem 0 0;
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 0.5rem;
+}
+
+.social-link img {
+    transition: transform 0.3s;
+}
+
+.social-link:hover img {
+    transform: scale(1.1);
 }
 
 .footer-info, .footer-links, .footer-contact {
