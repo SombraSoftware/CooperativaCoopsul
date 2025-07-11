@@ -1,5 +1,5 @@
 
-# 🌿 README - Site Cooperativa Coopsul
+# 🌿 Site Cooperativa Coopsul
 
 ## 📌 Visão Geral
 
